@@ -17,4 +17,4 @@ The objective of this new project is to automate and innovate the existing proce
 - The inspection process will be automated using AWS image recognition services
 - The architecture/implementation will be completely event based starting with the presence of the digital image from the assembly line (assume that there is a camera on the assembly line that is able to take images and store them in the cloud)
 
-The solution is implemented thorugh AWS well-architected framework and cloud best practices.
+The solution is implemented thorugh AWS well-architected framework and cloud best practices which can be found on the report file.
