@@ -1,4 +1,4 @@
-# Image-Recognition-for-Quality-Assurance-using-AWS
+# Serverless-Image-Recognition-in-AWS
 The requirements for this project is as follows:
 An image recognition startup is in the process innovating their inspection process which has been completely manual to this point. Inspectors take pictures of random objects to ensure that the they are within compliance standards set by the Quality Assurance Group.
 
